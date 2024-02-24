@@ -22,9 +22,10 @@ public:
     {
         for (int i = 0; i < 3; i++)
         {
+            cout <<" _       _       _ "<<endl;
             for (int j = 0; j < 3; j++)
             {
-                cout << griglia[i][j] << "\t";
+                cout <<"|"<<griglia[i][j]<<"|"<<"\t";
             }
             cout << endl;
         }
