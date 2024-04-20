@@ -73,4 +73,3 @@ int main()
     cout << " hai distrutto la flotta nemica utilizzando " << num_bomb << " bombe." << endl;
     return 0;
 }
-
